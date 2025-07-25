@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.bg-principal {
+  background-color: #FFA62B;
+}
+.bg-secundaria {
+  background-color: #813405;
+}
+.bg-terciaria {
+  background-color: #F4EDED;
+}
+.bg-quaternaria {
+  background-color: #36827F;
+}
+.bg-pentenaria {
+  background-color: #464D77;
+}
